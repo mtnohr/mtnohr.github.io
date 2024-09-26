@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Max Nohr
+title:
 author_profile: true
 redirect_from: 
   - /about/
