@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br />Welcome! I am a PhD candidate in the Economics department at the University of Texas at Austin. My research focuses on questions in environmental economics and public economics. 
+<br />Welcome! I am a PhD candidate in the Economics department at the University of Texas at Austin. My research focuses on questions in environmental and public economics. 
 
 ### I am going on the Economics Job Market in 2024-2025.
 
