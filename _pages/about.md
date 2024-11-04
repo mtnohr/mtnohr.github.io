@@ -12,6 +12,6 @@ redirect_from:
 ### I am going on the Economics Job Market in 2024-2025.
 
 
-<br />You can download my CV [here](/files/nohr_cv.pdf "nohr_cv.pdf") and my job market paper [here](/jmp "Job market paper.pdf") (soon). 
+<br />You can download my CV [here](/files/nohr_cv.pdf "nohr_cv.pdf") and my job market paper [here](/jmp "Job market paper.pdf"). 
 
 Send me an email at [m.t.nohr@gmail.com](mailto:m.t.nohr@gmail.com "mailto:m.t.nohr@gmail.com").

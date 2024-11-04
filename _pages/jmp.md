@@ -4,7 +4,7 @@ title: "JMP"
 permalink: /jmp/
 author_profile: true
 redirect_to:
-  - /research
+  - /files/nohr_jmp_wildfires.pdf
 ---
 
 {% include base_path %}
